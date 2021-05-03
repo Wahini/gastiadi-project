@@ -1,2 +1,2 @@
-# dharmasastra-project
+# gastiadia-project
 BANGKIT CAPSTONE
