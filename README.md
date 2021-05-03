@@ -1,2 +1,2 @@
-# gastiadia-project
+# gastiadi-project
 BANGKIT CAPSTONE
