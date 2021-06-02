@@ -6,7 +6,7 @@ Contributor for Machine Learning:
 
 ## How to Use
 1. Run [the notebook](https://github.com/vitoatmo/gastiadi-project/blob/main/gastiadi.ipynb) or you may open it in [Colab](https://colab.research.google.com/drive/19TMQXrycBhoJoWZcjAuHqd1EF-yexMlr?usp=sharing) 
-2. After you run, the model will downloaded in `model_gastiadi.zip'
+2. After you run, the model will downloaded in `model_gastiadi.zip`
 3. You may deploy the model in the server
 
 ## DeploymentLink
